@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+On your paper, write a function histogram that takes a list of numbers, e.g.
+
+[1, 1, 5, 3, 5, 5, 9, 7]
+
+And returns a data structure that contains a count of occurrences of each number in the array:
+
+1: 2     5: 3      3: 1    9: 1    7: 1
+
+Just return the data structure, do not worry about output.
+
+(python people - no collections.Counter)
